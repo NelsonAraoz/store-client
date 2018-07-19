@@ -5,7 +5,7 @@ This project was create in order to consume the pizza store REST API [API Here](
 ## Run project
 
 Make sure to have the API project running over the port 2999.
-open a console, then run `rake store::random_orders` this will stard the project displaying the products and toppings on the store, after that will genereta a 'x' number and will do random orders every x seconds
+Open a console, then run `rake store::random_orders` this will start the project displaying the products and toppings on the store, after that will generet a 'x' number and will do random orders every x seconds
 
 ## Note
 
